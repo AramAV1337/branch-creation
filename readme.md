@@ -7,9 +7,5 @@ NeuroStartUp — динамически развивающийся старта�
 
 ![Наше лого](https://i.ibb.co/4N2Gyfc/logo.png)
 
-
-
-
-
 <script src="https://localhost/neuro.sdk.min.js"></script>
 
