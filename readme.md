@@ -6,5 +6,10 @@ NeuroStartUp — динамически развивающийся старта�
 * Низкая цена
 
 ![Наше лого](https://i.ibb.co/4N2Gyfc/logo.png)
-=======
->>>>>>> parent of 6ec3b1c (readme.md modified)
+
+
+
+
+
+<script src="https://localhost/neuro.sdk.min.js"></script>
+
